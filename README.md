@@ -34,7 +34,7 @@ The SwitchThread is pretty much a V0 in a different shape, so with a V0 kit you 
 
 ### Boop and Dual Y
 
-I try to keep this short: You have to decide if you want to use a single or dual Y Motor setup and if you want to use Boop or not. Alternatively you can also use an [ADXL Probe](https://github.com/jniebuhr/adxl345-probe) or any other bed probe - I also want to implement [Klicky(https://github.com/jlas1/Klicky-Probe)] + [Sexbolt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) to use the [Automatic Z-Calibration](https://github.com/protoloft/klipper_z_calibration#moonraker-updater) macro.
+I try to keep this short: You have to decide if you want to use a single or dual Y Motor setup and if you want to use Boop or not. Alternatively you can also use an [ADXL Probe](https://github.com/jniebuhr/adxl345-probe) or any other bed probe - I also want to implement [Klicky](https://github.com/jlas1/Klicky-Probe) + [Sexbolt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) to use the [Automatic Z-Calibration](https://github.com/protoloft/klipper_z_calibration#moonraker-updater) macro.
 
 #### Boop
 
