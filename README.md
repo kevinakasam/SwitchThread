@@ -5,7 +5,7 @@ The SwitchThread is a smol version of the [Voron Switchwire](https://github.com/
 
 ![](Images/TheGang.png)
 
- <img src="Images/SwitchThread_Front" width=49% >  <img src="Images/SwitchThread_Right" width=49% >
+ <img src="https://github.com/kevinakasam/SwitchThread/blob/main/Images/SwitchThread_Front.png" width=49% >  <img src="https://github.com/kevinakasam/SwitchThread/blob/main/Images/SwitchThread_Right.png" width=49% >
 
 ### Beta - Work in progress!
 
