@@ -1,6 +1,6 @@
 # SwitchThread
 
-The SwitchThread is a smol version of the [Voron Switchwire](https://github.com/VoronDesign/Voron-Switchwire). The goal of this project was/is to keep it in the *rules* of the [Printer for Ants](https://www.3dprintersforants.com/) - this means 1515 extrusions, a 120mm³ build volume, MGN 7H on all axis, Mini Stealthburner and so on.
+The SwitchThread is a smol version of the [Voron Switchwire](https://github.com/VoronDesign/Voron-Switchwire). The goal of this project was/is to keep it in the *rules* of the [Printer for Ants](https://3dprintersforants.com/) - this means 1515 extrusions, a 120mm³ build volume, MGN 7H on all axis, Mini Stealthburner and so on.
 
 
 ![](Images/TheGang.png)
