@@ -51,6 +51,10 @@ Since we use a 120mm casted bed, there's quite some mass to move around. We had 
 
 ### ChangeLog
 
+28.09.2023
+- Mostly bug fixes
+- Added missing STLs, everything should be tested now
+
 01.08.2023: XZ Update
 - Fixed an issue with the belt path on the right idler
 - Added Alternative XZ Tensioners, these will require some different hardware, main difference is a M3x40mm screw and a F623 bearing per side
