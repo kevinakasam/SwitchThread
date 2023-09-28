@@ -1,6 +1,6 @@
 # SwitchThread
 
-The SwitchThread is a smol version of the [Voron Switchwire](https://github.com/VoronDesign/Voron-Switchwire). The goal of this project was/is to keep it in the *rules* of the [Printer for Ants](https://www.3dprintersforants.com/) - this means 1515 extrusions, a 120mm³ build volume, MGN 7H on all axis, Mini Stealthburner and so on.
+The SwitchThread is a smol version of the [Voron Switchwire](https://github.com/VoronDesign/Voron-Switchwire). The goal of this project was/is to keep it in the *rules* of the [Printer for Ants](https://3dprintersforants.com/) - this means 1515 extrusions, a 120mm³ build volume, MGN 7H on all axis, Mini Stealthburner and so on.
 
 
 ![](Images/TheGang.png)
@@ -19,6 +19,11 @@ The XZ gantry will be getting an update soon. I'm not a fan of the XZ tension me
 - Also many thanks to the [Printer for Ants Team](https://www.3dprintersforants.com/) and Doomcube members for giving me chance to participate to project.
 - And very special thanks to Schlongky for pushing me to finally start this project. Thanks for SwitchThreads name, your ideas and all the help with sourcing parts. Also thanks to Oldcrazy and Kyle for jumping on this project even though the CAD wasn't even finished yet!
 
+### See it in action
+
+SwitchThread by myself        |  SwitchThread by SchlongkyDong  
+:-------------------------:|:-------------------------:
+[![Serial Request](https://external-preview.redd.it/bjNpc2F3Z3Rya3FiMVyvM4rtLl5WRXK9o5vEQLbLF_i7k4YBdRX3QeY9nuIE.png?width=960&crop=smart&format=pjpg&auto=webp&s=55a83e827edee8236cf4bd4703cd7f64c9f64f6b)](https://www.reddit.com/r/voroncorexy/comments/16sjrmx/serial_request_switchwire_switchthread_discord/?utm_source=share&utm_medium=web2x&context=3) | [![Serial Reques](https://external-preview.redd.it/MHlkdmliYTh2a3FiMT8WCoI0W4vRF5_vyFynzZaq94SzKcuX9d_BwebZsUmG.png?width=640&crop=smart&format=pjpg&auto=webp&s=9543bf8ae734414cbf9615f3ec1043ca9ce88760)](https://www.reddit.com/r/voroncorexy/comments/16sk4o1/serial_request_switchwire_switchthread_discord/)
 
 ### BOM?
 
