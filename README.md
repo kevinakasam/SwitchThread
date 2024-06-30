@@ -51,6 +51,9 @@ Since we use a 120mm casted bed, there's quite some mass to move around. We had 
 
 ### ChangeLog
 
+30.06.2024
+- Well, finally the first real push of all files. Everything aside panels is working and ready to print :D
+
 28.09.2023
 - Mostly bug fixes
 - Added missing STLs, everything should be tested now
